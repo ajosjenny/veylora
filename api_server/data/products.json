@@ -1,0 +1,26 @@
+[
+  {
+    "id": "linen-overshirt",
+    "name": "Linen overshirt",
+    "category": "Everyday essentials",
+    "price": 89.0,
+    "icon": "checkroom",
+    "color": 4293383620
+  },
+  {
+    "id": "structured-tote",
+    "name": "Structured tote",
+    "category": "Saved products",
+    "price": 120.0,
+    "icon": "shopping_bag",
+    "color": 4292402664
+  },
+  {
+    "id": "everyday-knit",
+    "name": "Everyday knit",
+    "category": "New arrival",
+    "price": 64.0,
+    "icon": "dry_cleaning",
+    "color": 4292925648
+  }
+]

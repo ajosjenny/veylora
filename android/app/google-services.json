@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142088347841",
+    "project_id": "veylora-4d7c6",
+    "storage_bucket": "veylora-4d7c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142088347841:android:85f227597eb70a2dc0b440",
+        "android_client_info": {
+          "package_name": "com.example.veylora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHo3bgkROynZrGVCT2FIvZNyjkl14MOcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

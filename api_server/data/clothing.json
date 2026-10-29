@@ -1,0 +1,31 @@
+{
+  "clothing": [
+    {"id": 1, "name": "Black Hoodie", "category": "Tops", "color": "Black", "size": "M", "price": 899, "stock": 10},
+    {"id": 2, "name": "White T-Shirt", "category": "Tops", "color": "White", "size": "L", "price": 499, "stock": 15},
+    {"id": 3, "name": "Oversized Gray Shirt", "category": "Tops", "color": "Gray", "size": "L", "price": 699, "stock": 12},
+    {"id": 4, "name": "Blue Denim Jacket", "category": "Outerwear", "color": "Blue", "size": "M", "price": 1499, "stock": 7},
+    {"id": 5, "name": "Brown Cardigan", "category": "Outerwear", "color": "Brown", "size": "M", "price": 999, "stock": 8},
+    {"id": 6, "name": "Black Crop Top", "category": "Tops", "color": "Black", "size": "S", "price": 599, "stock": 10},
+    {"id": 7, "name": "Pink Blouse", "category": "Tops", "color": "Pink", "size": "S", "price": 799, "stock": 9},
+    {"id": 8, "name": "Blue Jeans", "category": "Bottoms", "color": "Blue", "size": "28", "price": 1299, "stock": 8},
+    {"id": 9, "name": "Black Cargo Pants", "category": "Bottoms", "color": "Black", "size": "30", "price": 1199, "stock": 11},
+    {"id": 10, "name": "Beige Trousers", "category": "Bottoms", "color": "Beige", "size": "28", "price": 1099, "stock": 6},
+    {"id": 11, "name": "Denim Shorts", "category": "Bottoms", "color": "Light Blue", "size": "28", "price": 799, "stock": 13},
+    {"id": 12, "name": "Black Mini Skirt", "category": "Skirts", "color": "Black", "size": "S", "price": 699, "stock": 9},
+    {"id": 13, "name": "Pleated White Skirt", "category": "Skirts", "color": "White", "size": "M", "price": 899, "stock": 7},
+    {"id": 14, "name": "Floral Summer Dress", "category": "Dresses", "color": "Floral", "size": "M", "price": 1299, "stock": 5},
+    {"id": 15, "name": "Black Bodycon Dress", "category": "Dresses", "color": "Black", "size": "S", "price": 1499, "stock": 6},
+    {"id": 16, "name": "Casual Green Dress", "category": "Dresses", "color": "Green", "size": "M", "price": 999, "stock": 8},
+    {"id": 17, "name": "Beige Blazer", "category": "Outerwear", "color": "Beige", "size": "M", "price": 1599, "stock": 5},
+    {"id": 18, "name": "Black Leather Jacket", "category": "Outerwear", "color": "Black", "size": "L", "price": 1999, "stock": 4},
+    {"id": 19, "name": "Gray Sweatpants", "category": "Bottoms", "color": "Gray", "size": "M", "price": 899, "stock": 10},
+    {"id": 20, "name": "White Polo Shirt", "category": "Tops", "color": "White", "size": "M", "price": 699, "stock": 14},
+    {"id": 21, "name": "Striped Long Sleeve", "category": "Tops", "color": "Blue and White", "size": "M", "price": 799, "stock": 9},
+    {"id": 22, "name": "Khaki Shorts", "category": "Bottoms", "color": "Khaki", "size": "30", "price": 749, "stock": 12},
+    {"id": 23, "name": "Red Knit Sweater", "category": "Tops", "color": "Red", "size": "L", "price": 999, "stock": 6},
+    {"id": 24, "name": "Cream Knit Vest", "category": "Tops", "color": "Cream", "size": "M", "price": 849, "stock": 8},
+    {"id": 25, "name": "Wide-Leg Black Pants", "category": "Bottoms", "color": "Black", "size": "28", "price": 1199, "stock": 7},
+    {"id": 26, "name": "Satin Blue Dress", "category": "Dresses", "color": "Blue", "size": "M", "price": 1599, "stock": 5},
+    {"id": 27, "name": "Cream Oversized Hoodie", "category": "Tops", "color": "Cream", "size": "L", "price": 999, "stock": 10}
+  ]
+}

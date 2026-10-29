@@ -1,0 +1,40 @@
+{
+  "datasets": [
+    {
+      "id": "products",
+      "name": "Featured products",
+      "description": "Products featured in the Veylora styling catalog.",
+      "category": "Commerce",
+      "source": "https://fakestoreapi.com/products",
+      "format": "JSON",
+      "updatedAt": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "id": "clothing",
+      "name": "Clothing inventory",
+      "description": "Clothing items, sizes, colors, and stock information.",
+      "category": "Wardrobe",
+      "source": "api_server/data/clothing.json",
+      "format": "JSON",
+      "updatedAt": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "id": "services",
+      "name": "Style services",
+      "description": "Personal styling and shopping services offered in the app.",
+      "category": "Services",
+      "source": "GET /api/services",
+      "format": "JSON",
+      "updatedAt": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "id": "payments",
+      "name": "Payment transactions",
+      "description": "Payment requests and confirmations processed by the API.",
+      "category": "Commerce",
+      "source": "POST /api/payments",
+      "format": "JSON",
+      "updatedAt": "2026-10-27T00:00:00.000Z"
+    }
+  ]
+}
